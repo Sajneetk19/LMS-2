@@ -1,0 +1,128 @@
+
+
+form {
+   
+    color: wheat;
+    border: 1px solid rgb(180, 180, 180);
+    box-shadow: 5%;
+    height: 74vh;
+    width: 60%;
+    margin-top: 7%;
+    margin-left: 23%;
+    opacity: 82%;
+    box-shadow:  0 0 10px rgb(122, 115, 115);
+  
+    
+}
+
+
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 15px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+
+}
+
+
+button {
+    background-color: rgb(8 20 104);
+    color: white;
+    padding: 14px 20px;
+    margin: 22px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+button:hover {
+    opacity: 0.8;
+}
+
+
+
+
+
+.container {
+    padding: 16px;
+    display: flex;
+    width: 130%;
+    color: black;
+}
+
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+.cancelbtn {
+    width: 100%;
+}
+
+.box1{
+    border: black;
+    width: 33.5%;
+    margin-top: -16px;
+    margin-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(8 20 104);
+    height: 74vh;
+    color: white;
+
+
+}
+
+.box2{
+    margin-left: 2%;
+    width: 30%;
+
+}
+
+.line1{
+
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.line2{
+    text-align: center;
+    font-size: 15px;
+}
+
+.lines{
+    margin-top: 35%;
+    margin-left: 10%;
+    
+    
+}
+
+.signing{
+
+    width: 35%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 33%;
+    color: black;
+    font-weight: bold;
+
+    
+
+}
+
+a {
+    color: rgb(0, 0, 0); 
+    text-decoration: none; 
+}
+
+.details{
+    margin-top: 8%;
+    margin-left: 1%;
+    font-family: math;
+    font-size: 14px;
+}
