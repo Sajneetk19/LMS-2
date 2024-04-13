@@ -1,0 +1,71 @@
+/* Upper section. */
+
+.img-section {
+    background-image: url('../../public/bg5.jpg');
+   height: 80vh;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+ 
+  
+  }
+  
+  .text-area{
+    margin-top: -30%;
+    width: 50%;
+    margin-left: 3%;
+  }
+
+  .text-area2{
+    margin-top: 5%;
+    text-align: center;
+
+  }
+
+  .certificate-box{
+   
+    background-color: #8ed0d2;
+    min-height: 70vh;
+    margin-top: 5%;
+}
+
+.text1{
+    margin-top: -25%;
+    width: 50%;
+    margin-left: 4%;
+    
+}
+
+.img{
+    margin-left: 60%;
+    margin-top: -20%;
+} 
+
+    
+
+/* Certificate Bottom text */
+
+
+p{
+    margin-left: 1%;
+    font-size: 20px;
+}
+
+ul{
+    margin-left: 1%;
+    font-size: 20px;
+}
+
+.bottom-texts{
+
+    width: 98%;
+    margin-left: 1%;
+    border-radius: 15px;
+    background-color: #ece3e3;
+    border: 1px solid grey;
+}
+
+.bottom-texts ul {
+    list-style-type: disc; 
+    margin-left: 2%;
+  }
