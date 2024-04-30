@@ -1,0 +1,47 @@
+.payment-form {
+  
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    width: 40%;
+    margin-top: -9%;
+  }
+  
+  .payment-form h2 {
+    /* margin-bottom: 20px; */
+    color: black;
+  }
+  
+  .payment-form label {
+    display: block;
+    margin-bottom: 10px;
+    color: black;
+    font-size: 55%;
+    margin-right: 79%;
+    font-weight: 600;
+  }
+  
+  .payment-form input {
+    width: 88%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .payment-form button {
+    width: 91%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .payment-form button:hover {
+    background-color: #0056b3;
+  }
+  
